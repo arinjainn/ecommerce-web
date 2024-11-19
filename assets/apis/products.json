@@ -1,0 +1,160 @@
+[
+  {
+    "id": 1,
+    "title": "the north face jacket",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Stay warm and stylish in this classic The North Face jacket.  Durable, water-resistant construction with a cozy fleece lining. Perfect for everyday wear or outdoor adventures.",
+    "price": 309.99,
+
+    "image": "./assets/images/product1.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "men"
+  },
+  {
+    "id": 2,
+    "title": "brown coat",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Timeless elegance meets modern sophistication in this 100% wool trench coat. Impeccably tailored with a flattering silhouette, it's a wardrobe staple for any discerning woman.",
+    "price": 449.99,
+    "image": "./assets/images/product2.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "women"
+  },
+  {
+    "id": 3,
+    "title": "black hoodie",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "A cozy and comfortable black hoodie, ideal for casual wear or layering.",
+    "price": 175.5,
+    "image": "./assets/images/product3.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "women"
+  },
+  {
+    "id": 4,
+    "title": "scarf and coat",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Stay warm and stylish with this elegant combination of a scarf and coat. Perfect for colder days.",
+    "price": 799.99,
+    "image": "./assets/images/product4.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "men"
+  },
+  {
+    "id": 5,
+    "title": "white cap",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "A classic white cap with a minimalist design.  Ideal for casual outings or adding a sporty touch.",
+    "price": 29.99,
+    "image": "./assets/images/product5.png",
+    "isNew": false,
+    "isTrending": false,
+    "category": "men"
+  },
+  {
+    "id": 6,
+    "title": "red nike sneakers",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "Sporty and stylish red Nike sneakers for a comfortable and active lifestyle.",
+    "price": 179.99,
+    "image": "./assets/images/product6.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "men"
+  },
+  {
+    "id": 7,
+    "title": "black oversized t-shirt",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "A relaxed and comfortable black oversized t-shirt, perfect for casual wear.",
+    "price": 79.99,
+    "image": "./assets/images/product7.png",
+    "isNew": false,
+    "isTrending": false,
+    "category": "men"
+  },
+  {
+    "id": 8,
+    "title": "louis vuitton hand bag",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "A luxurious and iconic Louis Vuitton handbag, perfect for adding a touch of elegance to any occasion.",
+    "price": 939.99,
+    "image": "./assets/images/product8.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "women"
+  },
+  {
+    "id": 9,
+    "title": "light yellow hoodie",
+    "trendTitle": "best trending hoodie",
+    "description": "This product is one of our best selling and popular prodcut; Because of its elegance and the beauty of its design, we advise you to buy it quickly before it runs out of stock.",
+    "price": 145.0,
+    "image": "./assets/images/product9.png",
+    "isNew": false,
+    "isTrending": true,
+    "category": "men"
+  },
+  {
+    "id": 10,
+    "title": "girl outfit",
+    "trendTitle": "most popular outfit",
+    "description": "We present to you our most popular product, as it has received many requests recently; Because of its quality and workmanship, we advise you to quickly purchase the product before the stock runs out.",
+    "price": 839.99,
+    "image": "./assets/images/product10.png",
+    "isNew": false,
+    "isTrending": true,
+    "category": "women"
+  },
+  {
+    "id": 11,
+    "title": "men uniforms",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": " Sharp and professional men's uniforms, ideal for work or formal events.",
+    "price": 1199.99,
+    "image": "./assets/images/product11.png",
+    "isNew": false,
+    "isTrending": false,
+    "category": "men"
+  },
+  {
+    "id": 12,
+    "title": "black jacket",
+    "trendTitle": "unique awesome jacket",
+    "description": "A chic and versatile black jacket, perfect for adding a touch of sophistication to any outfit.",
+    "price": 499.99,
+    "image": "./assets/images/product12.png",
+    "image2": "./assets/images/product12-2.png",
+    "isNew": true,
+    "isTrending": true,
+    "category": "women"
+  },
+  {
+    "id": 13,
+    "title": "women coat and pants",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "A stylish and coordinated women's coat and pants set, perfect for a polished look.",
+    "price": 1499.99,
+    "image": "./assets/images/product13.png",
+    "image2": "./assets/images/product13-2.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "women"
+  },
+  {
+    "id": 14,
+    "title": "fully jeans outfit",
+    "trendTitle": "Lorem ipsum dolor",
+    "description": "A classic and comfortable fully jeans outfit, ideal for casual wear.",
+    "price": 900.0,
+    "image": "./assets/images/product14.png",
+    "image2": "./assets/images/product14-2.png",
+    "isNew": true,
+    "isTrending": false,
+    "category": "men"
+  }
+]
