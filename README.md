@@ -2,9 +2,9 @@
 
 Build a Clothing Website using **HTML**, **CSS** & **JavaScript**.
 
-[Watch video on youtube](https://youtu.be/l_pICfsY3KM "Responsive Clothing Website")
 
-[View demo](https://codingweb33.github.io/Shopy/ "Responsive Clothing Website")
+
+
 
 Video contents:
 
